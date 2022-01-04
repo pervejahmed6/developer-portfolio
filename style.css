@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;}
+    h1 {
+        font-size: 50px;
+    }
+    .Name {
+        color: orange;
+    }
+    section {
+        display: flex;
+    }
+    .about-myself {
+        width: 50%;
+        padding-left:  2%;
+    }
+    .pic {
+        width: 70%;
+        padding-right: 5%
+    }
+    .link-button {
+        text-decoration: none;
+background-image:linear-gradient(orange, blue) ;
+color: white;
+font: bold;
+padding: 10px 30px;
+border-radius: 5px;
+    }
+    .top-banner {
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
+    }
